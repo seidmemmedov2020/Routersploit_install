@@ -25,7 +25,8 @@ Removing files
 * `pkg install python2`
 * `apt install python`
 * `apt install python2`
-* `apt install git curl`
+* `apt install git`
+* `git clone https://github.com/seidmemmedov2020/Routersploit`
 * `bash install.sh`
 
 Note : Dont terminate termux when installation! Please terminate after installation is done.
