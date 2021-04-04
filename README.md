@@ -18,11 +18,15 @@ Removing files
 
 # Installation
 
-```
-apt update && apt upgrade
-apt install git curl
-bash install.sh
-```
+
+* `apt update && apt upgrade`
+* `pkg update pkg upgrade`
+* `pkg install python`
+* `pkg install python2`
+* `apt install python`
+* `apt install python2`
+* `apt install git curl`
+* `bash install.sh`
 
 Note : Dont terminate termux when installation! Please terminate after installation is done.
 
